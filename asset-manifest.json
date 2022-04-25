@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dkguelee/static/css/main.abd64e84.css",
+    "main.js": "/dkguelee/static/js/main.16ed1d35.js",
+    "index.html": "/dkguelee/index.html",
+    "main.abd64e84.css.map": "/dkguelee/static/css/main.abd64e84.css.map",
+    "main.16ed1d35.js.map": "/dkguelee/static/js/main.16ed1d35.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.16ed1d35.js"
+  ]
+}
