@@ -1,10 +1,46 @@
 import React from 'react';
 import './App.css';
-
+import { Layout } from './components/layouts/Layout';
 function App() {
   return (
     <div className="App">
-      <img src='logo_dk_origin.png' width="300px"/>
+      <Layout></Layout>
+      <div>sdsdsdsd</div>
+      <div>sdsdsdsd</div>
+      <div>sdsdsdsd</div>
+      <div>sdsdsdsd</div>
+      <div>sdsdsdsd</div>
+      <div>sdsdsdsd</div>
+      <div>sdsdsdsd</div>
+      <div>sdsdsdsd</div>
+      <div>sdsdsdsd</div>
+      <div>sdsdsdsd</div>
+      <div>sdsdsdsd</div>
+      <div>sdsdsdsd</div>
+      <div>sdsdsdsd</div>
+      <div>sdsdsdsd</div>
+      <div>sdsdsdsd</div>
+      <div>sdsdsdsd</div>
+      <div>sdsdsdsd</div>
+      <div>sdsdsdsd</div>
+      <div>sdsdsdsd</div>
+      <div>sdsdsdsd</div>
+      <div>sdsdsdsd</div>
+      <div>sdsdsdsd</div>
+      <div>sdsdsdsd</div>
+      <div>sdsdsdsd</div>
+      <div>sdsdsdsd</div>
+      <div>sdsdsdsd</div>
+      <div>sdsdsdsd</div>
+      <div>sdsdsdsd</div>
+      <div>sdsdsdsd</div>
+      <div>sdsdsdsd</div>
+      <div>sdsdsdsd</div>
+      <div>sdsdsdsd</div>
+      <div>sdsdsdsd</div>
+      <div>sdsdsdsd</div>
+      <div>sdsdsdsd</div>
+      <div>sdsdsdsd</div>
     </div>
   );
 }

@@ -1,4 +1,4 @@
-export const navlist = [
+export const Navlist = [
   { title: "<Header />" },
   { title: "<Skill />" },
   { title: "<About />" },
