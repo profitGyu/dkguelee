@@ -1,5 +1,20 @@
+:root{
+  --text-color: #f0f4f5;
+  --background-color: navy;
+  --accent-color: skyblue;
+  --underline-color: #f0f4f5;
+}
+
+
+
 @import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR&display=swap");
 body {
   margin: 0;
   font-family: "IBM Plex Sans KR", sans-serif;
+  padding:0;
+  text-decoration: none;
+}
+
+a{
+  text-decoration-line: none;
 }
