@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/dkguelee/static/css/main.abd64e84.css",
-    "main.js": "/dkguelee/static/js/main.16ed1d35.js",
+    "main.css": "/dkguelee/static/css/main.25b10743.css",
+    "main.js": "/dkguelee/static/js/main.470cb250.js",
+    "static/media/logo_dk_white.png": "/dkguelee/static/media/logo_dk_white.bef6f8bceb5dc2f68739.png",
     "index.html": "/dkguelee/index.html",
-    "main.abd64e84.css.map": "/dkguelee/static/css/main.abd64e84.css.map",
-    "main.16ed1d35.js.map": "/dkguelee/static/js/main.16ed1d35.js.map"
+    "main.25b10743.css.map": "/dkguelee/static/css/main.25b10743.css.map",
+    "main.470cb250.js.map": "/dkguelee/static/js/main.470cb250.js.map"
   },
   "entrypoints": [
-    "static/css/main.abd64e84.css",
-    "static/js/main.16ed1d35.js"
+    "static/css/main.25b10743.css",
+    "static/js/main.470cb250.js"
   ]
 }
